@@ -1,6 +1,6 @@
-module github.com/xitongsys/parquet-go
+module github.com/cain129/parquet-go
 
-go 1.16
+go 1.19
 
 require (
 	github.com/apache/arrow/go/v12 v12.0.1
